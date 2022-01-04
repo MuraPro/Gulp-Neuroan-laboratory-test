@@ -1,0 +1,15 @@
+lato normal
+pt sans 400 700 400 italick 700 italick
+
+
+f002 shearch  <i class="far fa-search"></i> regular
+
+e055 instagram <i class="fab fa-instagram-square"></i>
+f39e  facebook  <i class="fab fa-facebook-f"></i>
+f099 twitter  <i class="fab fa-twitter"></i> 
+f0d3 pintes <i class="fab fa-pinterest-square"></i>
+f0d4 google+ <i class="fab fa-google-plus-square"></i>
+
+
+
+
